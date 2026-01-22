@@ -1,6 +1,8 @@
 
 div {
-    color: blueviolet;
-    font-size: 32px;
+    color: white;
+    background-color: red;
+    font-size: 40px;
+    font-weight: bold;
     text-align: center;
 }
