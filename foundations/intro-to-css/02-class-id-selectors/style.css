@@ -1,11 +1,11 @@
 /* Add CSS Styling */
 
 * {
-    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .odd-number {
     background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .text-size {
